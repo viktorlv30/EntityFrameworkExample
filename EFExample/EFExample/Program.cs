@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace EFExample
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            //todo
+            //usual comment
+
         }
     }
 }
