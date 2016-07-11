@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFExample", "EFExample\EFExample.csproj", "{6D6630C5-E34E-4DC3-9F25-A451E291013D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrMyExpl", "EFExample\EntityFrMyExpl.csproj", "{6D6630C5-E34E-4DC3-9F25-A451E291013D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
